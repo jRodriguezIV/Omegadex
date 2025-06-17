@@ -21,7 +21,10 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 </details>
 
 <details>
-<summary>🐍 <strong>Python Lists</strong></summary>
+<summary>🐍 <strong>Python</strong></summary>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📋 <strong>Lists</strong></summary>
 
 - **List Indexing and Access**  
   Techniques for accessing list elements, slicing, reverse indexing, and dictionary comparison  
@@ -30,6 +33,8 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 - **List Manipulation**  
   Built-in list methods for adding, removing, updating, and sorting elements  
   → [list_manipulation.py](Python/Lists/list_manipulation/list_manipulation.py)
+
+</details>
 
 </details>
 
