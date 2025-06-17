@@ -40,9 +40,13 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📖 <strong>Dictionaries</strong></summary>
 
-- **Dictionaries**  
+- **Dictionaries**    
   Concise reference for core Python data structures, their usage, and common operations.    
   → [dictionaries.py](Python/Dictionaries/dictionaries.py)
+  - **Dictionary Indexing and Access**  
+  Covers concise, practical techniques for accessing, indexing, and navigating Python dictionaries, including nested data and safe retrieval methods.  
+    → [dictionary_indexing_and_access.py](Python/Dictionaries/dictionary_indexing_and_access/dictionary_indexing_and_access.py)
+
 
 </details>
 
