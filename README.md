@@ -21,6 +21,17 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 </details>
 
 <details>
+<summary>💻 <strong>Computer Science</strong></summary>
+
+- **Logarithmic Math**  
+    A clear, math-focused cheat sheet explaining how to compute and interpret logarithms (base 2 and 10) by hand, with emphasis on their role in data allocation and algorithmic complexity  
+    → [logarithmic_math.md](Computer_Science/logarithmic_math/logarithmic_math.md)
+
+
+
+</details>
+
+<details>
 <summary>🐍 <strong>Python</strong></summary>
 
 <details>
