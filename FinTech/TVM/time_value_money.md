@@ -148,4 +148,4 @@ $$
 ---
 
 > 📎 Code examples available in  
-> [`time_value_money.py`](finTech/TVM/time_value_money.py)
+> [time_value_money.py](FinTech/TVM/time_value_money.py)
