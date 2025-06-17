@@ -67,4 +67,85 @@ $$
 
 ## 4. Ordinary Annuity (Payments at End of Period)
 
-- **Future Va**
+- **Future Value**
+
+$$
+FV = PMT \times \frac{(1 + r)^n - 1}{r}
+$$
+
+- **PMT from FV**
+
+$$
+PMT = \frac{FV \cdot r}{(1 + r)^n - 1}
+$$
+
+- **Present Value**
+
+$$
+PV = PMT \times \frac{1 - (1 + r)^{-n}}{r}
+$$
+
+- **PMT from PV**
+
+$$
+PMT = \frac{PV \cdot r}{1 - (1 + r)^{-n}}
+$$
+
+---
+
+## 5. Annuity Due (Payments at Beginning of Period)
+
+- **Future Value**
+
+$$
+FV = PMT \times \frac{(1 + r)^n - 1}{r} \times (1 + r)
+$$
+
+- **PMT from FV**
+
+$$
+PMT = \frac{FV \cdot r}{[(1 + r)^n - 1] \cdot (1 + r)}
+$$
+
+- **Present Value**
+
+$$
+PV = PMT \times \frac{1 - (1 + r)^{-n}}{r} \times (1 + r)
+$$
+
+- **PMT from PV**
+
+$$
+PMT = \frac{PV \cdot r}{[1 - (1 + r)^{-n}] \cdot (1 + r)}
+$$
+
+---
+
+## 6. Perpetuity
+
+- **Present Value of Perpetuity**
+
+$$
+PV = \frac{PMT}{r}
+$$
+
+---
+
+## 7. Continuous Compounding
+
+- **Future Value**
+
+$$
+FV = PV \cdot e^{r \cdot n}
+$$
+
+- **Present Value**
+
+$$
+PV = \frac{FV}{e^{r \cdot n}}
+$$
+
+---
+
+> 📎 Code examples available in  
+> [`time_value_money.py`](finTech/TVM/time_value_money.py)
