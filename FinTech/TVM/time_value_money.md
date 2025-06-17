@@ -1,7 +1,7 @@
 # 📊 Time Value of Money (TVM) – Math Cheat Sheet
 
 Longhand math reference for core financial formulas.  
-💡 See `time_value_money.py` for Python code examples.
+💡 See [time_value_money.py](time_value_money.py) for Python code examples.
 
 ---
 
