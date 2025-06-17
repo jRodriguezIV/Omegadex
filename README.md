@@ -12,14 +12,14 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 
 - **Time Value of Money (TVM)**  
   - Core formulas for calculating PV, FV, annuities, and interest in LATEX-style math notation format   
-  → [time_value_money.md](finTech/TVM/time_value_money.md)
+  → [time_value_money.md](FinTech/TVM/time_value_money.md)
 
   - Core formulas for calculating PV, FV, annuities, and interest in python coding format   
-  → [time_value_money.py](finTech/TVM/time_value_money.py)
+  → [time_value_money.py](FinTech/TVM/time_value_money.py)
 
 - **Libraries and SDKs for FinTech/Quant**  
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
-  → [libs_and_sdks.md](finTech/libs_and_sdks/libs_and_sdks.md)
+  → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
 
 </details>
 
