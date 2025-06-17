@@ -38,6 +38,16 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 <summary>🐍 <strong>Python</strong></summary>
 
 <details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📋 <strong>Data Structures</strong></summary>
+
+- **Data Structures Overview**  
+  Techniques for accessing list elements, slicing, reverse indexing, and dictionary comparison  
+  → [list_indexing_and_access.py](Python/Lists/list_indexing_and_access/list_indexing_and_access.py)
+
+</details>
+
+
+<details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📋 <strong>Lists</strong></summary>
 
 - **List Indexing and Access**  
