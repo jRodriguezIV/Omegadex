@@ -17,6 +17,10 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
   - Core formulas for calculating PV, FV, annuities, and interest in python coding format   
   → [time_value_money.py](FinTech/TVM/time_value_money.py)
 
+- **Times Series Data**  
+Key concepts and structures in time series data, including OHLCV, LTP, data granularities, and distinctions between time-related data types like cross-sectional, longitudinal, and panel data    
+→ [time_series_data.md](FinTech/Time_Series_Data/time_series_data.md)
+
 - **Libraries and SDKs for FinTech/Quant**  
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
   → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
