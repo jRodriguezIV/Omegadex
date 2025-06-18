@@ -38,38 +38,41 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 <summary>🐍 <strong>Python</strong></summary>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📖 <strong>Dictionaries</strong></summary>
-
-- **Dictionaries**    
-  Concise reference for core Python data structures, their usage, and common operations.    
-  → [dictionaries.py](Python/Dictionaries/dictionaries.py)
-  - **Dictionary Indexing and Access**  
-  Covers concise, practical techniques for accessing, indexing, and navigating Python dictionaries, including nested data and safe retrieval methods.  
-    → [dictionary_indexing_and_access.py](Python/Dictionaries/dictionary_indexing_and_access/dictionary_indexing_and_access.py)
-
-
-</details>
-
-<details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 <strong>Data Structures</strong></summary>
 
 - **Data Structures Overview**  
-  Concise reference for core Python data structures, their usage, and common operations.    
+  Concise reference for core Python data structures, their usage, and common operations      
   → [data_structures_overview.py](Python/Data_Structures/data_structures_overview.py)
 
-</details>
+- **Tuples and Sets**  
+  A compact reference covering the fundamentals of Python tuples and sets, their creation, properties, and key operations like union, intersection, and immutability rules      
+  → [tuples_and_sets.py](Python/Data_Structures/tuples_and_sets/tuples_and_sets.py)
 
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📖 <strong>Dictionaries</strong></summary>
+
+- **Dictionaries**    
+  A quick-reference Python cheatsheet for core dictionary operations including length, key/value access, deletion, popping, sorting, and clearing        
+  → [dictionaries.py](Python/Data_structures/Dictionaries/dictionaries.py)
+
+  - **Dictionary Indexing and Access**  
+  Covers concise, practical techniques for accessing, indexing, and navigating Python dictionaries, including nested data and safe retrieval methods    
+    → [dictionary_indexing_and_access.py](Python/Data_Structures/Dictionaries/Dictionary_Indexing_And_Access/dictionary_indexing_and_access.py)
+
+</details>
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📋 <strong>Lists</strong></summary>
 
 - **List Indexing and Access**  
   Techniques for accessing list elements, slicing, reverse indexing, and dictionary comparison  
-  → [list_indexing_and_access.py](Python/Lists/list_indexing_and_access/list_indexing_and_access.py)
+  → [list_indexing_and_access.py](Python/Data_Structures/Lists/list_indexing_and_access/list_indexing_and_access.py)
 
 - **List Manipulation**  
-  Built-in list methods for adding, removing, updating, and sorting elements  
-  → [list_manipulation.py](Python/Lists/list_manipulation/list_manipulation.py)
+  Built-in list methods for adding, removing, updating, and sorting elements    
+  → [list_manipulation.py](Python/Data_Structures/Lists/list_manipulation/list_manipulation.py)
+
+</details>
 
 </details>
 
