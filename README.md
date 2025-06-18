@@ -21,6 +21,10 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 Key concepts and structures in time series data, including OHLCV, LTP, data granularities, and distinctions between time-related data types like cross-sectional, longitudinal, and panel data    
 → [time_series_data.md](FinTech/Time_Series_Data/time_series_data.md)
 
+- **Data Visualization**  
+Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
+→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)
+
 - **Libraries and SDKs for FinTech/Quant**  
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
   → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
