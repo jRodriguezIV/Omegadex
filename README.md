@@ -1,4 +1,6 @@
 # 📔 Omegadex Ω 
+### The Final Codex — The Last Guide You Will Ever Need
+***Master** the Essentials. Rule the **Knowledge**.*  
 
 ## 🚀 Usage  
 1. Browse through the **Topics** section to find the topic you're interested in.  
