@@ -1,7 +1,8 @@
 # 📚 Cheat Sheets Collection
 
-A personal, compact, and highly readable set of cheat sheets for Python programming and FinTech concepts.  
-Designed for quick reference and optimal knowledge consolidation for myself and peers.
+## 🚀 Usage  
+1. Browse through the **Topics** section to find the topic you're interested in.  
+2. Click on the topic's link to be taken directly to its respective cheat sheet in this repository.
 
 ---
 
@@ -96,12 +97,6 @@ Time series visualization using Matplotlib, covering line plots, custom styling,
 - Keep content minimal, practical, and easy to scan  
 - Serve as a go-to resource for coding, quant finance, and technical interviews
 
----
-
-## 🚀 Usage
-
-Browse the folders for topic-specific cheat sheets.  
-Copy, adapt, and extend as needed for your workflow.
 
 > 💡 Tip: Star ⭐ this repo to quickly find your way back when coding or prepping interviews!
 
