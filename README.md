@@ -23,7 +23,9 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 
 - **Data Visualization**  
 Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
-→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)
+→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
+Python notebook format for interactive data visualization  
+→ [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)
 
 - **Libraries and SDKs for FinTech/Quant**  
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
