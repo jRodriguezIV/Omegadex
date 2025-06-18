@@ -13,6 +13,19 @@
 <details>
 <summary>📈 <strong>FinTech</strong></summary>
 
+<details>
+<summary>👓<strong>Data_Visualization</strong></summary>    
+
+- Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
+→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
+    - Python notebook format for interactive data visualization  
+    → [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)  
+- **3D Visualization**: Visualize implied volatility surfaces with 3D plotting in Python to explore the power of multi-dimensional financial data representation  
+→ [3d_visualization.ipynb](FinTech/Data_Visualization/3D_Visualization/3d_visualization.ipynb) 
+  
+  ---
+</details>
+
 - **Time Value of Money (TVM)**  
 Core formulas for calculating PV, FV, annuities, and interest in LATEX-style math notation format   
 → [time_value_money.md](FinTech/TVM/time_value_money.md)
@@ -24,16 +37,10 @@ Core formulas for calculating PV, FV, annuities, and interest in LATEX-style mat
 Key concepts and structures in time series data, including OHLCV, LTP, data granularities, and distinctions between time-related data types like cross-sectional, longitudinal, and panel data    
 → [time_series_data.md](FinTech/Time_Series_Data/time_series_data.md)
 
-- **Data Visualization**  
-Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
-→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
-  - Python notebook format for interactive data visualization  
-  → [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)
-
 - **Libraries and SDKs for FinTech/Quant**  
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
   → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
-
+---
 </details>
 
 <details>
