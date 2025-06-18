@@ -53,7 +53,7 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 
 - **Dictionaries**    
   A quick-reference Python cheatsheet for core dictionary operations including length, key/value access, deletion, popping, sorting, and clearing        
-  → [dictionaries.py](Python/Data_structures/Dictionaries/dictionaries.py)
+  → [dictionaries.py](Python/Data_Structures/Dictionaries/dictionaries.py)
 
   - **Dictionary Indexing and Access**  
   Covers concise, practical techniques for accessing, indexing, and navigating Python dictionaries, including nested data and safe retrieval methods    
