@@ -22,7 +22,7 @@
     → [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)  
 - **3D Visualization**: Visualize implied volatility surfaces with 3D plotting in Python to explore the power of multi-dimensional financial data representation  
 → [3d_visualization.ipynb](FinTech/Data_Visualization/3D_Visualization/3d_visualization.ipynb)
-- **Plotting Candlesticks**: Visualize implied volatility surfaces with 3D plotting in Python to explore the power of multi-dimensional financial data representation  
+- **Plotting Candlesticks**: Download, process, and visualize S&P 500 (SPY) historical price data as an interactive candlestick chart using Bokeh in Python    
 → [plotting_candlesticks.ipynb](FinTech/Data_Visualization/Plotting_Candlesticks/plotting_candlesticks.ipynb)
  
   
