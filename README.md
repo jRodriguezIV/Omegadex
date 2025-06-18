@@ -1,4 +1,4 @@
-# 📚 Cheat Sheets Collection
+# 📔 Omegadex Ω 
 
 ## 🚀 Usage  
 1. Browse through the **Topics** section to find the topic you're interested in.  
