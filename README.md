@@ -46,7 +46,7 @@ Designed for quick reference and optimal knowledge consolidation for myself and 
 
 - **Tuples and Sets**  
   A compact reference covering the fundamentals of Python tuples and sets, their creation, properties, and key operations like union, intersection, and immutability rules      
-  → [tuples_and_sets.py](Python/Data_Structures/tuples_and_sets/tuples_and_sets.py)
+  → [tuples_and_sets.py](Python/Data_Structures/Tuples_and_Sets/tuples_and_sets.py)
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📖 <strong>Dictionaries</strong></summary>
