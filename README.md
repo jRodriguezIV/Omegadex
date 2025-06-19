@@ -14,7 +14,7 @@
 <summary>📈 <strong>FinTech</strong></summary>
 
 <details>
-<summary>👓<strong>Data_Visualization</strong></summary>    
+<summary>👓 <strong>Data_Visualization</strong></summary>    
 
 - Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
 → [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
@@ -24,6 +24,8 @@
 → [3d_visualization.ipynb](FinTech/Data_Visualization/3D_Visualization/3d_visualization.ipynb)
 - **Plotting Candlesticks**: Download, process, and visualize S&P 500 (SPY) historical price data as an interactive candlestick chart using Bokeh in Python    
 → [plotting_candlesticks.ipynb](FinTech/Data_Visualization/Plotting_Candlesticks/plotting_candlesticks.ipynb)
+- **Bollinger Bands**: Calculate and plot Bollinger Bands for historical price data using Python and matplotlib.    
+→ [bollinger_bands.ipynb](FinTech/Data_Visualization/Bollinger_Bands/bollinger_bands.ipynb)
  
   
   ---
