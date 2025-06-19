@@ -75,6 +75,9 @@ Introduces NumPy, demonstrating array creation, dimensionality, and shape manipu
   - **Indexing and Slicing Arrays**  
   Demonstrates how to index, slice, and initialize NumPy arrays, including creating arrays of ones, zeros, and identity matrices             
   → [indexing_and_slicing_arrays.ipynb](Python/Numpy/Indexing_and_Slicing_Arrays/indexing_and_slicing_arrays.ipynb)
+  - **Vectorization and Broadcasting Arrays**  
+  NumPy's vectorization and broadcasting features for efficient array operations, including arithmetic, comparison, and logical operations across arrays of different shapes               
+  → [vectorization_and_broadcasting_arrays.ipynb](Python/Numpy/Vectorization_and_Broadcasting_Arrays/vectorization_and_broadcasting_arrays.ipynb)
 
 </details>
 
