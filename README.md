@@ -67,6 +67,19 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
   → [lambda.ipynb](Python/Lambda/lambda.ipynb)
 
 <details>
+<summary> &nbsp;&nbsp;&nbsp;&nbsp;🔢 <strong>Numpy</strong></summary>
+
+- **Numpy**  
+Introduces NumPy, demonstrating array creation, dimensionality, and shape manipulation for efficient numerical computing in Python           
+→ [numpy.ipynb](Python/Numpy/numpy.ipynb)
+  - **Indexing and Slicing Arrays**  
+  Demonstrates how to index, slice, and initialize NumPy arrays, including creating arrays of ones, zeros, and identity matrices             
+  → [indexing_and_slicing_arrays.ipynb](Python/Numpy/Indexing_and_Slicing_Arrays/indexing_and_slicing_arrays.ipynb)
+
+</details>
+
+
+<details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 <strong>Data Structures</strong></summary>
 
 - **Data Structures Overview**  
