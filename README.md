@@ -16,7 +16,7 @@
 <details>
 <summary>👓 <strong>Data_Visualization</strong></summary>    
 
-- Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
+- **Data_Visualization**Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
 → [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
     - Python notebook format for interactive data visualization  
     → [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)  
