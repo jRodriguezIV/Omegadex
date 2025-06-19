@@ -88,6 +88,10 @@ Introduces NumPy, demonstrating array creation, dimensionality, and shape manipu
 Introduces the pandas Series data structure, demonstrates its creation, manipulation, handling of missing data, and the use of methods like apply() for element-wise operations             
 → [series.ipynb](Python/Pandas/Series/series.ipynb)
 
+- **DataFrames**  
+Demonstrates how to create, manipulate, and analyze pandas DataFrames, including indexing, column operations, loading data, and sorting               
+→ [dataframes.ipynb](Python/Pandas/DataFrames/dataframes.ipynb)
+
 </details>
 
 <details>
