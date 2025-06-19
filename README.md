@@ -13,24 +13,6 @@
 <details>
 <summary>📈 <strong>FinTech</strong></summary>
 
-<details>
-<summary>👓 <strong>Data_Visualization</strong></summary>    
-
-- **Data_Visualization**Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
-→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
-    - Python notebook format for interactive data visualization  
-    → [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)  
-- **3D Visualization**: Visualize implied volatility surfaces with 3D plotting in Python to explore the power of multi-dimensional financial data representation  
-→ [3d_visualization.ipynb](FinTech/Data_Visualization/3D_Visualization/3d_visualization.ipynb)
-- **Plotting Candlesticks**: Download, process, and visualize S&P 500 (SPY) historical price data as an interactive candlestick chart using Bokeh in Python    
-→ [plotting_candlesticks.ipynb](FinTech/Data_Visualization/Plotting_Candlesticks/plotting_candlesticks.ipynb)
-- **Bollinger Bands**: Calculate and plot Bollinger Bands for historical price data using Python and matplotlib.    
-→ [bollinger_bands.ipynb](FinTech/Data_Visualization/Bollinger_Bands/bollinger_bands.ipynb)
- 
-  
-  ---
-</details>
-
 - **Time Value of Money (TVM)**  
 Core formulas for calculating PV, FV, annuities, and interest in LATEX-style math notation format   
 → [time_value_money.md](FinTech/TVM/time_value_money.md)
@@ -45,6 +27,24 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 - **Libraries and SDKs for FinTech/Quant**  
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
   → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
+
+<details>
+<summary>👓 <strong>Data_Visualization</strong></summary>    
+
+- **Data_Visualization**: Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
+→ [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
+    - Python notebook format for interactive data visualization  
+    → [data_visualization.ipynb](FinTech/Data_Visualization/data_visualization.ipynb)  
+- **3D Visualization**: Visualize implied volatility surfaces with 3D plotting in Python to explore the power of multi-dimensional financial data representation  
+→ [3d_visualization.ipynb](FinTech/Data_Visualization/3D_Visualization/3d_visualization.ipynb)
+- **Plotting Candlesticks**: Download, process, and visualize S&P 500 (SPY) historical price data as an interactive candlestick chart using Bokeh in Python    
+→ [plotting_candlesticks.ipynb](FinTech/Data_Visualization/Plotting_Candlesticks/plotting_candlesticks.ipynb)
+- **Bollinger Bands**: Calculate and plot Bollinger Bands for historical price data using Python and matplotlib.    
+→ [bollinger_bands.ipynb](FinTech/Data_Visualization/Bollinger_Bands/bollinger_bands.ipynb)
+ 
+  
+  ---
+</details>
 ---
 </details>
 
@@ -61,6 +61,10 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 
 <details>
 <summary>🐍 <strong>Python</strong></summary>
+
+- **Lambda**  
+  Explains Python's lambda (anonymous) functions and demonstrates their use with map() and filter() for concise data processing         
+  → [lambda.ipynb](Python/Lambda/lambda.ipynb)
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 <strong>Data Structures</strong></summary>
