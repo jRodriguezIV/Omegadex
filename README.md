@@ -29,7 +29,7 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
   → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
 
 <details>
-<summary>👓 <strong>Data_Visualization</strong></summary>    
+<summary>👓 <strong>Data Visualization</strong></summary>    
 
 - **Data_Visualization**: Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
 → [data_visualization.py](FinTech/Data_Visualization/data_visualization.py)  
@@ -42,11 +42,12 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 - **Bollinger Bands**: Calculate and plot Bollinger Bands for historical price data using Python and matplotlib.    
 → [bollinger_bands.ipynb](FinTech/Data_Visualization/Bollinger_Bands/bollinger_bands.ipynb)
  
-  
-  ---
-</details>
----
-</details>
+
+</details> <!-- Close Data Visualization -->
+
+  --- 
+
+</details> <!-- Close FinTech -->
 
 <details>
 <summary>💻 <strong>Computer Science</strong></summary>
@@ -57,7 +58,7 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 
 
 
-</details>
+</details> <!-- Close Computer Science -->
 
 <details>
 <summary>🐍 <strong>Python</strong></summary>
@@ -79,7 +80,7 @@ Introduces NumPy, demonstrating array creation, dimensionality, and shape manipu
   NumPy's vectorization and broadcasting features for efficient array operations, including arithmetic, comparison, and logical operations across arrays of different shapes               
   → [vectorization_and_broadcasting_arrays.ipynb](Python/Numpy/Vectorization_and_Broadcasting_Arrays/vectorization_and_broadcasting_arrays.ipynb)
 
-</details>
+</details> <!-- Close Numpy -->
 
 <details>
 <summary> &nbsp;&nbsp;&nbsp;&nbsp;🐼 <strong>Pandas</strong></summary>
@@ -88,11 +89,16 @@ Introduces NumPy, demonstrating array creation, dimensionality, and shape manipu
 Introduces the pandas Series data structure, demonstrates its creation, manipulation, handling of missing data, and the use of methods like apply() for element-wise operations             
 → [series.ipynb](Python/Pandas/Series/series.ipynb)
 
-- **DataFrames**  
-Demonstrates how to create, manipulate, and analyze pandas DataFrames, including indexing, column operations, loading data, and sorting               
-→ [dataframes.ipynb](Python/Pandas/DataFrames/dataframes.ipynb)
+<details><summary>&nbsp;&nbsp;&nbsp;&nbsp; 🪟<strong> DataFrames </strong></summary>
 
-</details>
+- **DataFrames**: Demonstrates how to create, manipulate, and analyze pandas DataFrames, including indexing, column operations, loading data, and sorting               
+→ [dataframes.ipynb](Python/Pandas/DataFrames/dataframes.ipynb)
+- **Descriptive Statistical Functions**: Demonstrates how to create, manipulate, and analyze pandas DataFrames, including indexing, column operations, loading data, and sorting               
+→ [descriptive_statistical_functions.ipynb](Python/Pandas/DataFrames/Descriptive_Statistical_Functions/descriptive_statistical_functions.ipynb)
+</details> <!-- Close DataFrames -->
+</details> <!-- Close Pandas -->
+  
+
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 <strong>Data Structures</strong></summary>
@@ -116,7 +122,7 @@ Demonstrates how to create, manipulate, and analyze pandas DataFrames, including
   Covers concise, practical techniques for accessing, indexing, and navigating Python dictionaries, including nested data and safe retrieval methods    
     → [dictionary_indexing_and_access.py](Python/Data_Structures/Dictionaries/Dictionary_Indexing_And_Access/dictionary_indexing_and_access.py)
 
-</details>
+</details> <!-- Close Dictionaries -->
 
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📋 <strong>Lists</strong></summary>
@@ -129,11 +135,11 @@ Demonstrates how to create, manipulate, and analyze pandas DataFrames, including
   Built-in list methods for adding, removing, updating, and sorting elements    
   → [list_manipulation.py](Python/Data_Structures/Lists/list_manipulation/list_manipulation.py)
 
-</details>
+</details> <!-- Close Lists -->
 
-</details>
+</details> <!-- Close Data Structures -->
 
-</details>
+</details> <!-- Close Python -->
 
 ---
 
