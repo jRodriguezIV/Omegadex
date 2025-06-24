@@ -95,6 +95,9 @@ Introduces the pandas Series data structure, demonstrates its creation, manipula
 → [dataframes.ipynb](Python/Pandas/DataFrames/dataframes.ipynb)
 - **Descriptive Statistical Functions**: Demonstrates how to create, manipulate, and analyze pandas DataFrames, including indexing, column operations, loading data, and sorting               
 → [descriptive_statistical_functions.ipynb](Python/Pandas/DataFrames/Descriptive_Statistical_Functions/descriptive_statistical_functions.ipynb)
+- **Indexing and Missing Values**: Demonstrates how to index, select, and manipulate pandas DataFrames, including handling missing values, replacing data, and reindexing                
+→ [indexing_and_missing_values.ipynb](Python/Pandas/DataFrames/Indexing_and_Missing_Values/indexing_and_missing_values.ipynb)
+
 </details> <!-- Close DataFrames -->
 </details> <!-- Close Pandas -->
   
@@ -104,7 +107,7 @@ Introduces the pandas Series data structure, demonstrates its creation, manipula
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 <strong>Data Structures</strong></summary>
 
 - **Data Structures Overview**  
-  Concise reference for core Python data structures, their usage, and common operations. Stacks, Queues, and Trees.       
+  Concise reference for core Python data structures, their usage, and common operations. Stacks, Queues, and Trees         
   → [data_structures_overview.py](Python/Data_Structures/data_structures_overview.py)
 
 - **Tuples and Sets**  
