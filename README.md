@@ -6,12 +6,23 @@
 1. Browse through the **Topics** section to find the topic you're interested in.  
 2. Click on the topic's link to be taken directly to its respective cheat sheet in this repository.
 
----
 
 ## 📌 Topics
 
 <details>
 <summary>📈 <strong>FinTech</strong></summary>
+<!-- Aglorithmic_Trading_Strategies -->
+
+<details>
+<summary>💹 <strong>Algorithmic Trading Strategies</strong></summary>    
+
+- **Buy and Hold Strategy**: Demonstrates how to implement and visualize a buy and hold investment strategy by calculating and plotting cumulative portfolio returns from historical stock data       
+→ [buy_and_hold_strategy.ipynb](FinTech/Aglorithmic_Trading_Strategies/Buy_and_Hold_Strategy/buy_and_hold_strategy.ipynb)  
+
+  --- 
+
+</details> <!-- Close Data Visualization -->
+
 
 <details>
 <summary>👓 <strong>Data Visualization</strong></summary>    
@@ -155,7 +166,7 @@ Explains how to use for and while loops in Python to iterate over sequences and 
 
 </details> <!-- Close Python -->
 
----
+
 
 ## 🎯 Purpose
 
