@@ -97,6 +97,8 @@ Introduces the pandas Series data structure, demonstrates its creation, manipula
 → [descriptive_statistical_functions.ipynb](Python/Pandas/DataFrames/Descriptive_Statistical_Functions/descriptive_statistical_functions.ipynb)
 - **Indexing and Missing Values**: Demonstrates how to index, select, and manipulate pandas DataFrames, including handling missing values, replacing data, and reindexing                
 → [indexing_and_missing_values.ipynb](Python/Pandas/DataFrames/Indexing_and_Missing_Values/indexing_and_missing_values.ipynb)
+- **Groupby**: Demonstrates how to use pandas groupby, aggregation, transformation, filtering, merging, and concatenation to analyze and combine data in DataFrames               
+→ [groupby.ipynb](Python/Pandas/DataFrames/Groupby/groupby.ipynb)
 
 </details> <!-- Close DataFrames -->
 </details> <!-- Close Pandas -->
