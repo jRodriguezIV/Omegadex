@@ -149,6 +149,9 @@ Introduces the pandas Series data structure, demonstrates its creation, manipula
 - **Conditional Statements**  
 Explains Python conditional statements, demonstrating the use of if, elif, and else blocks to control program flow based on conditions       
 → [conditional_statements.ipynb](Python/Conditional_Statements/conditional_statements.ipynb)
+- **Loops**  
+Explains how to use for and while loops in Python to iterate over sequences and execute code blocks multiple times based on conditions         
+→ [loops.ipynb](Python/Loops/loops.ipynb)
 
 </details> <!-- Close Python -->
 
