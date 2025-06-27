@@ -59,6 +59,10 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
   Overview of essential Python libraries, SDKs, and APIs for financial analysis, trading, and ML  
   → [libs_and_sdks.md](FinTech/libs_and_sdks/libs_and_sdks.md)
 
+- **Quant Project Setup**  
+ Provides a general template fo a clean, reproducible quant project  
+→ [quant_project_setup.md](FinTech/Quant_Project_Setup/quant_project_setup.md)
+
 
 
 </details> <!-- Close FinTech -->
