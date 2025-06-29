@@ -11,7 +11,16 @@
 
 <details>
 <summary>📈 <strong>FinTech</strong></summary>
-<!-- Aglorithmic_Trading_Strategies -->
+
+<details>
+<summary>📃 <strong>Theory</strong></summary>    
+
+- **Vectorized VS Event Driven BackTesting**: Compares vectorized and event-driven backtesting approaches, highlighting their differences in speed, realism, complexity, and use cases for trading strategy evaluation         
+→ [vectorized_vs_eventdriven_backtesting.md](FinTech/Theory/Vectorized_vs_EventDriven_BackTesting/vectorized_vs_eventdriven_backtesting.md)  
+
+  --- 
+
+</details> <!-- Close Theory -->
 
 <details>
 <summary>💹 <strong>Algorithmic Trading Strategies</strong></summary>    
@@ -21,7 +30,7 @@
 
   --- 
 
-</details> <!-- Close Data Visualization -->
+</details> <!-- Close Algorithmic Trading Strategies -->
 
 
 <details>
