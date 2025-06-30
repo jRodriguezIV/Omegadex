@@ -94,6 +94,10 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
   Demonstrates K-Nearest Neighbors (KNN) classification using scikit-learn, including model training, prediction, and visualization of decision boundaries on the Iris dataset        
   → [knn_classification.ipynb](Computer_Science/Machine_Learning/KNN_Classification/knn_classification.ipynb)
 
+- **Support Vector Machine**  
+  Support Vector Machine (SVM) classification using scikit-learn, including model training, hyperplane creation, and visualization of decision boundaries          
+  → [support_vector_machine.ipynb](Computer_Science/Machine_Learning/Support_Vector_Machine/support_vector_machine.ipynb)
+
 
 
 </details> <!--Close Machine Learning -->
