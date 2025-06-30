@@ -89,6 +89,10 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 - **Logistic Regression**  
   Demonstrates logistic regression using scikit-learn, including data preparation, model training, prediction, and visualization on the Iris dataset    
   → [logistic_regression.ipynb](Computer_Science/Machine_Learning/Logistic_Regression/logistic_regression.ipynb)
+  
+- **KNN Classification**  
+  Demonstrates K-Nearest Neighbors (KNN) classification using scikit-learn, including model training, prediction, and visualization of decision boundaries on the Iris dataset        
+  → [knn_classification.ipynb](Computer_Science/Machine_Learning/KNN_Classification/knn_classification.ipynb)
 
 
 
