@@ -142,14 +142,6 @@ Introduces the pandas Series data structure, demonstrates its creation, manipula
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📊 <strong>Data Structures</strong></summary>
 
-- **Data Structures Overview**  
-  Concise reference for core Python data structures, their usage, and common operations. Stacks, Queues, and Trees         
-  → [data_structures_overview.py](Python/Data_Structures/data_structures_overview.py)
-
-- **Tuples and Sets**  
-  A compact reference covering the fundamentals of Python tuples and sets, their creation, properties, and key operations like union, intersection, and immutability rules      
-  → [tuples_and_sets.py](Python/Data_Structures/Tuples_and_Sets/tuples_and_sets.py)
-
 <details>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;📖 <strong>Dictionaries</strong></summary>
 
@@ -175,6 +167,16 @@ Introduces the pandas Series data structure, demonstrates its creation, manipula
   → [list_manipulation.py](Python/Data_Structures/Lists/list_manipulation/list_manipulation.py)
 
 </details> <!-- Close Lists -->
+
+
+- **Data Structures Overview**  
+  Concise reference for core Python data structures, their usage, and common operations. Stacks, Queues, and Trees         
+  → [data_structures_overview.py](Python/Data_Structures/data_structures_overview.py)
+
+- **Tuples and Sets**  
+  A compact reference covering the fundamentals of Python tuples and sets, their creation, properties, and key operations like union, intersection, and immutability rules      
+  → [tuples_and_sets.py](Python/Data_Structures/Tuples_and_Sets/tuples_and_sets.py)
+
 
 </details> <!-- Close Data Structures -->
 
