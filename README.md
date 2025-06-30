@@ -79,6 +79,17 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 <details>
 <summary>💻 <strong>Computer Science</strong></summary>
 
+<details>
+<summary>🤖 <strong>Machine Learning</strong></summary>
+
+- **Linear Regression**  
+    A clear, math-focused cheat sheet explaining how to compute and interpret logarithms (base 2 and 10) by hand, with emphasis on their role in data allocation and algorithmic complexity  
+    → [linear_regression.ipynb](Computer_Science/Machine_Learning/Linear_Regression/linear_regression.ipynb)
+
+
+
+</details> <!--Close Machine Learning -->
+
 - **Logarithmic Math**  
     A clear, math-focused cheat sheet explaining how to compute and interpret logarithms (base 2 and 10) by hand, with emphasis on their role in data allocation and algorithmic complexity  
     → [logarithmic_math.md](Computer_Science/logarithmic_math/logarithmic_math.md)
