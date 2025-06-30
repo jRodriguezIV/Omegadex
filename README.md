@@ -86,9 +86,9 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
     Explains and demonstrates linear regression using scikit-learn, covering data preparation, model training, evaluation, and visualization of results      
     → [linear_regression.ipynb](Computer_Science/Machine_Learning/Linear_Regression/linear_regression.ipynb)
 
-  - **Logistic Regression**  
-    Demonstrates logistic regression using scikit-learn, including data preparation, model training, prediction, and visualization on the Iris dataset    
-    → [logistic_regression.ipynb](Computer_Science/Machine_Learning/Logistic_Regression/logistic_regression.ipynb)
+- **Logistic Regression**  
+  Demonstrates logistic regression using scikit-learn, including data preparation, model training, prediction, and visualization on the Iris dataset    
+  → [logistic_regression.ipynb](Computer_Science/Machine_Learning/Logistic_Regression/logistic_regression.ipynb)
 
 
 
