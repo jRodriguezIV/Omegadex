@@ -98,6 +98,10 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
   Support Vector Machine (SVM) classification using scikit-learn, including model training, hyperplane creation, and visualization of decision boundaries          
   → [support_vector_machine.ipynb](Computer_Science/Machine_Learning/Support_Vector_Machine/support_vector_machine.ipynb)
 
+- **Random Forrest**  
+  Random Forest algorithm for classification using scikit-learn, including feature engineering, model training, and accuracy evaluation on stock price data           
+  → [random_forest.ipynb](Computer_Science/Machine_Learning//Random_Forest/random_forest.ipynb)
+
 
 
 </details> <!--Close Machine Learning -->
