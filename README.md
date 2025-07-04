@@ -100,7 +100,11 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
 
 - **Random Forrest**  
   Random Forest algorithm for classification using scikit-learn, including feature engineering, model training, and accuracy evaluation on stock price data           
-  → [random_forest.ipynb](Computer_Science/Machine_Learning//Random_Forest/random_forest.ipynb)
+  → [random_forest.ipynb](Computer_Science/Machine_Learning/Random_Forest/random_forest.ipynb)
+
+- **Artificial Neural Networks**  
+  Introduces artificial neural networks and demonstrates how to use scikit-learn's MLPClassifier for classification, covering model structure, training, prediction, and key concepts for beginners          
+  → [artificial_neural_networks.ipynb](Computer_Science/Machine_Learning/Artificial_Neural_Networks/artificial_neural_networks.ipynb)
 
 
 
