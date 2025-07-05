@@ -37,6 +37,17 @@
 
 
 <details>
+<summary>⚙️ <strong>Options</strong></summary>    
+
+- **Call Option Payoff**: Explains and visualizes the profit and loss profiles of call option buyers and sellers by plotting payoff graphs for a 900 strike price call on Infosys stock         
+→ [call_option_payoff.ipynb](FinTech/Options/Call_Option_Payoff/call_option_payoff.ipynb)  
+
+  --- 
+
+</details> <!-- Close Options -->
+
+
+<details>
 <summary>👓 <strong>Data Visualization</strong></summary>    
 
 - **Data_Visualization**: Time series visualization using Matplotlib, covering line plots, custom styling, multi-series charts, scatter plots, and histograms with full annotations      
