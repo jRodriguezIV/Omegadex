@@ -28,6 +28,9 @@
 - **Buy and Hold Strategy**: Demonstrates how to implement and visualize a buy and hold investment strategy by calculating and plotting cumulative portfolio returns from historical stock data       
 → [buy_and_hold_strategy.ipynb](FinTech/Aglorithmic_Trading_Strategies/Buy_and_Hold_Strategy/buy_and_hold_strategy.ipynb)  
 
+- **Support Vector Classifier Strategy**: Demonstrates how to build, evaluate, and backtest a Support Vector Classifier (SVC) trading strategy on S&P 500 data, including feature engineering, signal prediction, and cumulative returns visualization         
+→ [support_vector_classifier_strategy.ipynbb](FinTech/Aglorithmic_Trading_Strategies/Support_Vector_Classifier_Strategy/support_vector_classifier_strategy.ipynb)  
+
   --- 
 
 </details> <!-- Close Algorithmic Trading Strategies -->
