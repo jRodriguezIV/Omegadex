@@ -45,6 +45,9 @@
 - **Bull Call Spread Payoff**: Explains and visualizes the bull call spread options strategy by plotting the combined payoff of a long 920 strike call and a short 940 strike call on Infosys stock          
 → [bull_call_spread_payoff.ipynb](FinTech/Options/Bull_Call_Spread_Payoff/bull_call_spread_payoff.ipynb)  
 
+- **Bear Put Spread Payoff**: Explains and visualizes the bear put spread options strategy by plotting the combined payoff of a long 880 strike put and a short 860 strike put on Infosys stock            
+→ [bear_put_spread_payoff.ipynb](FinTech/Options/Bear_Put_Spread_Payoff/bear_put_spread_payoff.ipynb) 
+
   --- 
 
 </details> <!-- Close Options -->
