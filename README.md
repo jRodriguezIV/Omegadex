@@ -42,6 +42,9 @@
 - **Call Option Payoff**: Explains and visualizes the profit and loss profiles of call option buyers and sellers by plotting payoff graphs for a 900 strike price call on Infosys stock         
 → [call_option_payoff.ipynb](FinTech/Options/Call_Option_Payoff/call_option_payoff.ipynb)  
 
+- **Bull Call Spread Payoff**: Explains and visualizes the bull call spread options strategy by plotting the combined payoff of a long 920 strike call and a short 940 strike call on Infosys stock          
+→ [bull_call_spread_payoff.ipynb](FinTech/Options/Bull_Call_Spread_Payoff/bull_call_spread_payoff.ipynb)  
+
   --- 
 
 </details> <!-- Close Options -->
