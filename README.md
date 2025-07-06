@@ -48,6 +48,12 @@
 - **Bear Put Spread Payoff**: Explains and visualizes the bear put spread options strategy by plotting the combined payoff of a long 880 strike put and a short 860 strike put on Infosys stock            
 → [bear_put_spread_payoff.ipynb](FinTech/Options/Bear_Put_Spread_Payoff/bear_put_spread_payoff.ipynb) 
 
+- **Protective Put Payoff**: Explains and visualizes the protective put options strategy by plotting the combined payoff of holding a stock and buying a put option to limit downside risk                
+→ [protective_put_payoff.ipynb](FinTech/Options/Protective_Put_Payoff/protective_put_payoff.ipynb) 
+
+- **Covered Call Payoff**: Explains and visualizes the covered call options strategy by plotting the combined payoff of holding Wipro stock and selling a 300 strike call option                
+→ [covered_call_payoff.ipynb](FinTech/Options/Covered_Call_Payoff/covered_call_payoff.ipynb)
+
   --- 
 
 </details> <!-- Close Options -->
