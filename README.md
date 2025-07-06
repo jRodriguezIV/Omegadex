@@ -86,6 +86,10 @@ Key concepts and structures in time series data, including OHLCV, LTP, data gran
  Provides a general template fo a clean, reproducible quant project  
 → [quant_project_setup.md](FinTech/Quant_Project_Setup/quant_project_setup.md)
 
+- **Computing Historical Volatility**  
+ Demonstrates how to calculate and visualize 20-day historical volatility for Apple stock by computing daily log returns and rolling standard deviation    
+→ [computing_historical_volatility.ipynb](FinTech/Computing_Historical_Volatility/computing_historical_volatility.ipynb)
+
 
 
 </details> <!-- Close FinTech -->
